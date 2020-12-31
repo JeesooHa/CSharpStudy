@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{517DC674-C99A-4B2F-8A1B-E35CE7E71439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralTypes", "IntegralTypes\IntegralTypes.csproj", "{DDB877A8-7862-4AAC-8078-5A000BEF50F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerLiterals", "IntegerLiterals\IntegerLiterals.csproj", "{082289E1-2AE8-4890-86AD-DDDA09BFABD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517DC674-C99A-4B2F-8A1B-E35CE7E71439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517DC674-C99A-4B2F-8A1B-E35CE7E71439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517DC674-C99A-4B2F-8A1B-E35CE7E71439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517DC674-C99A-4B2F-8A1B-E35CE7E71439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB877A8-7862-4AAC-8078-5A000BEF50F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB877A8-7862-4AAC-8078-5A000BEF50F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB877A8-7862-4AAC-8078-5A000BEF50F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB877A8-7862-4AAC-8078-5A000BEF50F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082289E1-2AE8-4890-86AD-DDDA09BFABD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082289E1-2AE8-4890-86AD-DDDA09BFABD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082289E1-2AE8-4890-86AD-DDDA09BFABD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082289E1-2AE8-4890-86AD-DDDA09BFABD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
